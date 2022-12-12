@@ -1,4 +1,4 @@
-
+install xampp
 open xampp
 start mysql, apache
 browse localhost/phpadmin
