@@ -1,0 +1,5 @@
+
+open xampp
+start mysql, apache
+browse localhost/phpadmin
+create user account: root123 pass: 12345

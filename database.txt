@@ -1,0 +1,6 @@
+open xampp
+start mysql ap
+browse localhost/phpadmin
+create user account: root123 pass: 12345
+create database  Student Records
+CREATE TABLE Students(ID int, LastName varchar(255), FirstName varchar(255), Section varchar(255))
